@@ -1,5 +1,5 @@
-# Ignore virtual environment
 /venv/
-
-# Ignore Trails project files
 ../Trails/
+user-service/venv/
+book-service/venv/
+borrowing-service/venv/
